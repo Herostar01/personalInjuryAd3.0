@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+}
+
+.gold {
+  color: goldenrod;
+  background-color: black;
+  padding: 15px;
+  font-size: 50px;
+}
+
+.redWhite {
+  color: white;
+  background-color: red;
+  font-size: 40px;
+}
+
+.large {
+  font-size: 40px;
+}
+
+.App {
+  text-align: center;
+}
+
+
