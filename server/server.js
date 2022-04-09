@@ -9,6 +9,7 @@ app.use(cors());
 app.use(express.json(), express.urlencoded({extended:true}));
 
 // database connection link to file
+//this code links our server to DB
 
 require('./config/mongoose.config')(DB);
 // const mongooseConnectionFunc = require('./config/mongoose.config');
